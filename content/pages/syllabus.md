@@ -22,11 +22,49 @@ There are no prerequisites for this course except passion for teaching and curio
 Handouts
 --------
 
-| HANDOUTS | COMMENTS |
-| --- | --- |
-| Lesson plan ([PDF]({{< baseurl >}}/resources/mit5_95js09_res01)) | Teachers make lesson plans. Here is a form for a sample lesson. |
-| Feedback form ([PDF]({{< baseurl >}}/resources/mit5_95js09_res02)) | After class is over, students can give feedback on the lesson's strong and weak points. Here is a form to aid students in giving comments. |
-| Reading memo ([PDF]({{< baseurl >}}/resources/mit5_95js09_res03)) | If there are lecture notes, students and instructors can benefit from student comments about the material. Here is a description of the reading memos activity.   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HANDOUTS
+{{< thclose >}}
+{{< thopen >}}
+COMMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lesson plan ([PDF]({{< baseurl >}}/resources/mit5_95js09_res01))
+{{< tdclose >}}
+{{< tdopen >}}
+Teachers make lesson plans. Here is a form for a sample lesson.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Feedback form ([PDF]({{< baseurl >}}/resources/mit5_95js09_res02))
+{{< tdclose >}}
+{{< tdopen >}}
+After class is over, students can give feedback on the lesson's strong and weak points. Here is a form to aid students in giving comments.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reading memo ([PDF]({{< baseurl >}}/resources/mit5_95js09_res03))
+{{< tdclose >}}
+{{< tdopen >}}
+If there are lecture notes, students and instructors can benefit from student comments about the material. Here is a description of the reading memos activity.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+  
 
 Classroom Routine
 -----------------

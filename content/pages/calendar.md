@@ -4,15 +4,183 @@ title: Calendar
 uid: ce7a9a5b-d604-3e17-effc-00518e715888
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | General principles of teaching | &nbsp; |
-| 2 | Teaching equations |  {{< br >}}{{< br >}} Homework 1 due {{< br >}}{{< br >}} Homework 2 out {{< br >}}{{< br >}}  |
-| 3 | Taking account of misconceptions; avoiding rote learning |  {{< br >}}{{< br >}} Homework 2 due {{< br >}}{{< br >}} Homework 3 out {{< br >}}{{< br >}}  |
-| 4 | Designing homework and exam problems | &nbsp; |
-| 5 | Course design |  {{< br >}}{{< br >}} Homework 3 due {{< br >}}{{< br >}} Homework 4 out {{< br >}}{{< br >}}  |
-| 6 | Teaching interactively in large and small groups |  {{< br >}}{{< br >}} Homework 4 due {{< br >}}{{< br >}} Homework 5 out {{< br >}}{{< br >}}  |
-| 7 | Lecture planning and performing |  {{< br >}}{{< br >}} Homework 5 due {{< br >}}{{< br >}} Homework 6 out {{< br >}}{{< br >}}  |
-| 8 | Teaching with blackboards and slides |  {{< br >}}{{< br >}} Homework 6 due {{< br >}}{{< br >}} Homework 7 out {{< br >}}{{< br >}}  |
-| 9 | Political barriers to educational change |  {{< br >}}{{< br >}} Homework 7 due {{< br >}}{{< br >}} Homework 8 out {{< br >}}{{< br >}}  |
-| 10 | Course summary and your questions | Homework 8 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+General principles of teaching
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Teaching equations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 1 due
+
+Homework 2 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Taking account of misconceptions; avoiding rote learning
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 2 due
+
+Homework 3 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Designing homework and exam problems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Course design
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 3 due
+
+Homework 4 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Teaching interactively in large and small groups
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 4 due
+
+Homework 5 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture planning and performing
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 5 due
+
+Homework 6 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Teaching with blackboards and slides
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 6 due
+
+Homework 7 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Political barriers to educational change
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 7 due
+
+Homework 8 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Course summary and your questions
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
