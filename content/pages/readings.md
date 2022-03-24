@@ -50,11 +50,11 @@ Miller, George A. "[The Magical Number Seven, Plus or Minus Two: Some Limits on 
 
 Parts I and III are required. Part II is optional.
 
-Benezet, L. P. "[The Teaching of Arithmetic I: The Story of an Experiment](http://www.inference.phy.cam.ac.uk/sanjoy/benezet/1.html)." _Journal of the National Education_ 24, no. 8 (November 1935): 241-244. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.inference.phy.cam.ac.uk/sanjoy/benezet/1.pdf))
+Benezet, L. P. "[The Teaching of Arithmetic I: The Story of an Experiment](http://www.inference.phy.cam.ac.uk/sanjoy/benezet/1.html)." _Journal of the National Education_ 24, no. 8 (November 1935): 241-244. ([PDF](http://www.inference.phy.cam.ac.uk/sanjoy/benezet/1.pdf))
 
-———. "[The Teaching of Arithmetic II: The Story of an Experiment](http://www.inference.phy.cam.ac.uk/sanjoy/benezet/2.html)." _Journal of the National Education_ 24, no. 9 (December 1935): 301-303. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.inference.phy.cam.ac.uk/sanjoy/benezet/2.pdf))
+———. "[The Teaching of Arithmetic II: The Story of an Experiment](http://www.inference.phy.cam.ac.uk/sanjoy/benezet/2.html)." _Journal of the National Education_ 24, no. 9 (December 1935): 301-303. ([PDF](http://www.inference.phy.cam.ac.uk/sanjoy/benezet/2.pdf))
 
-———. "[The Teaching of Arithmetic III: The Story of an Experiment](http://www.inference.phy.cam.ac.uk/sanjoy/benezet/3.html)." _Journal of the National Education 25_, no. 1 (January 1936): 7-8. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.inference.phy.cam.ac.uk/sanjoy/benezet/3.pdf))
+———. "[The Teaching of Arithmetic III: The Story of an Experiment](http://www.inference.phy.cam.ac.uk/sanjoy/benezet/3.html)." _Journal of the National Education 25_, no. 1 (January 1936): 7-8. ([PDF](http://www.inference.phy.cam.ac.uk/sanjoy/benezet/3.pdf))
 
 
 {{< tdclose >}}
@@ -210,7 +210,7 @@ Political barriers to educational change
 
 ### Tactics for change
 
-Halfman, Robert L., M. L. A. MacVicar, W. T. Martin, Edwin F. Taylor, and Jerrold R. Zacharias. "[Tactics for Change](http://www.eftaylor.com/pub/TacticsForChange.htm)." Occasional Paper No. 11 of the Education Research Center, Massachusetts Institute of Technology, 1972. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.eftaylor.com/pub/TacticsForChange.pdf))
+Halfman, Robert L., M. L. A. MacVicar, W. T. Martin, Edwin F. Taylor, and Jerrold R. Zacharias. "[Tactics for Change](http://www.eftaylor.com/pub/TacticsForChange.htm)." Occasional Paper No. 11 of the Education Research Center, Massachusetts Institute of Technology, 1972. ([PDF](http://www.eftaylor.com/pub/TacticsForChange.pdf))
 
 ### Education and the rise of the corporate state
 
