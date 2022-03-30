@@ -15,7 +15,7 @@ Epstein, Lewis C. _Thinking Physics: Practical Lessons in Critical Thinking_. 2n
 
 Fleisch, Daniel. _A Student's Guide to Maxwell's Equations_. New York, NY: Cambridge University Press, 2008. ISBN: 9780521701471.
 
-Mahajan, Sanjoy. _[The Art of Insight in Science and Engineering: Mastering Complexity](/resources/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014)_. MIT Press, 2014. \[Book available as a free download, or for purchase in paperback form.\]
+Mahajan, Sanjoy. _[The Art of Insight in Science and Engineering: Mastering Complexity](/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014)_. MIT Press, 2014. \[Book available as a free download, or for purchase in paperback form.\]
 
 Polya, George. _Mathematical Discovery: On Understanding, Learning, and Teaching Problem Solving_. Combined ed. New York, NY: John Wiley and Sons, 1981. ISBN: 9780471089759.
 
